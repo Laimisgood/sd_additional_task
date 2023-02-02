@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>sb_age_verification</id>
+    <version>1.0</version>
+    <priority>100</priority>
+    <position>10</position>
+    <status>active</status>
+    <has_icon>Y</has_icon>
+    <supplier>SD-School</supplier>
+</addon>
