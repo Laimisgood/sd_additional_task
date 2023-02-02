@@ -1,0 +1,24 @@
+.popup-fade:before {
+	content: '';
+	background: rgb(0, 0, 0);
+	position: fixed; 
+	left: 0;
+	top: 0;
+	width: 100%; 
+	height: 100%;
+	opacity: 1;
+	z-index: 9999;
+}
+
+.popup {
+	position: fixed;
+	top: 35%;
+	left: 50%;
+	padding: 20px;
+	width: 360px;
+	margin-left: -200px;	
+	background: #fff;
+	border-radius: 4px; 
+	z-index: 99999;
+	opacity: 1;	
+}
