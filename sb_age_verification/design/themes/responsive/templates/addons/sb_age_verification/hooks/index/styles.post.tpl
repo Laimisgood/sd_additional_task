@@ -1,0 +1,1 @@
+{style src="addons/sb_age_verification/styles.css"}
