@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::sb_age_verification"
+msgid "Age verification"
+msgstr "Подтверждение возраста"
+
+msgctxt "Addons::description::sb_age_verification"
+msgid "Age verification module which prevents users under the age of 18 from viewing site content."
+msgstr "Модуль проверки возраста, который запрещает пользователям младше 18 лет просматривать содержимое сайта."
+
+msgctxt "Languages::sb_age_verification"
+msgid "Age verification"
+msgstr "Подтверждение возраста"
+
+msgctxt "Languages::sb_age_verification.title_form"
+msgid "Confirm that you are 18 years old"
+msgstr "Подтвердите, что вам 18 лет"
+
+msgctxt "Languages::sb_age_verification.birthdate"
+msgid "Birthday"
+msgstr "День рождения"
+
+msgctxt "Languages::sb_age_verification.denied"
+msgid "Access to the site is denied, you are not 18 years old yet"
+msgstr "Доступ к сайту запрещен, вам еще нет 18 лет"
